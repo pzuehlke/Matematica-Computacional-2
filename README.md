@@ -11,4 +11,5 @@ Linear.
 4 — [Pseudo-random number generation and vectorization](https://github.com/pzuehlke/NumPy-Tutorial/blob/main/04-random_number_generation_and_vectorization.ipynb)<br>
 5 — [Cálculo simbólico de derivadas com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/05-derivacao_simbolica_com_SymPy.ipynb)<br>
 6 — [Cálculo simbólico de integrais com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/06_integracao_simbolica_com_SymPy.ipynb)<br>
-7 — [Trabalho 1](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/trabalho_1.ipynb)<br>
+7 — [Gráficos de funções de duas variáveis](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/07_graficos_de_funcoes_de_duas_variaveis.ipynb)<br>
+[Trabalho 1](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/trabalho_1.ipynb)<br>
