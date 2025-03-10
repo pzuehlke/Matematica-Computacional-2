@@ -1,11 +1,11 @@
 # Matemática Computacional 2
 Material de ensino para um curso de curta duração sobre o uso das bibliotecas
-NumPy, Matplotlib, SymPy e SciPy aplicadas ao Cálculo de funções de várias
-variáveis e à Álgebra Linear.
+NumPy, Matplotlib, SymPy e SciPy aplicadas à Álgebra Linear e ao Cálculo de
+funções de várias variáveis.
 
 ## Conteúdo
 
-01 — [Introduction to NumPy arrays](https://github.com/pzuehlke/NumPy-Tutorial/blob/main/01-introduction_to_numpy_arrays.ipynb)<br>
+01 — [Introdução a arrays NumPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/01-introducao_a_arrays_numpy.ipynb)<br>
 02 — [Slicing and filtering](https://github.com/pzuehlke/NumPy-Tutorial/blob/main/02-slicing_and_filtering.ipynb)<br>
 03 — [Vectors and matrices](https://github.com/pzuehlke/NumPy-Tutorial/blob/main/03-vectors_and_matrices.ipynb)<br>
 04 — [Solving linear equations](https://github.com/pzuehlke/NumPy-Tutorial/blob/main/04-solving_linear_equations.ipynb)<br>
