@@ -1,0 +1,50 @@
+<svg viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
+  <!-- Title for matrix -->
+  <text x="240" y="40" text-anchor="middle" font-family="Arial" font-size="24" fill="#555555">A</text>
+  
+  <!-- Matrix cells - colors by column, darkening by row -->
+  <!-- Row 1 -->
+  <rect x="120" y="60" width="60" height="60" fill="#ffcccc" stroke="#ffffff" stroke-width="2" />
+  <rect x="180" y="60" width="60" height="60" fill="#cce5ff" stroke="#ffffff" stroke-width="2" />
+  <rect x="240" y="60" width="60" height="60" fill="#ccffcc" stroke="#ffffff" stroke-width="2" />
+  <rect x="300" y="60" width="60" height="60" fill="#ffe0cc" stroke="#ffffff" stroke-width="2" />
+  
+  <!-- Row 2 -->
+  <rect x="120" y="120" width="60" height="60" fill="#ff9999" stroke="#ffffff" stroke-width="2" />
+  <rect x="180" y="120" width="60" height="60" fill="#99caff" stroke="#ffffff" stroke-width="2" />
+  <rect x="240" y="120" width="60" height="60" fill="#99ff99" stroke="#ffffff" stroke-width="2" />
+  <rect x="300" y="120" width="60" height="60" fill="#ffc299" stroke="#ffffff" stroke-width="2" />
+  
+  <!-- Row 3 -->
+  <rect x="120" y="180" width="60" height="60" fill="#ff6666" stroke="#ffffff" stroke-width="2" />
+  <rect x="180" y="180" width="60" height="60" fill="#66a3ff" stroke="#ffffff" stroke-width="2" />
+  <rect x="240" y="180" width="60" height="60" fill="#66ff66" stroke="#ffffff" stroke-width="2" />
+  <rect x="300" y="180" width="60" height="60" fill="#ffa366" stroke="#ffffff" stroke-width="2" />
+  
+  <!-- Matrix values -->
+  <text x="150" y="100" text-anchor="middle" font-family="Arial" font-size="20">1</text>
+  <text x="210" y="100" text-anchor="middle" font-family="Arial" font-size="20">2</text>
+  <text x="270" y="100" text-anchor="middle" font-family="Arial" font-size="20">3</text>
+  <text x="330" y="100" text-anchor="middle" font-family="Arial" font-size="20">4</text>
+  
+  <text x="150" y="160" text-anchor="middle" font-family="Arial" font-size="20">1</text>
+  <text x="210" y="160" text-anchor="middle" font-family="Arial" font-size="20">4</text>
+  <text x="270" y="160" text-anchor="middle" font-family="Arial" font-size="20">9</text>
+  <text x="330" y="160" text-anchor="middle" font-family="Arial" font-size="20">16</text>
+  
+  <text x="150" y="220" text-anchor="middle" font-family="Arial" font-size="20">1</text>
+  <text x="210" y="220" text-anchor="middle" font-family="Arial" font-size="20">8</text>
+  <text x="270" y="220" text-anchor="middle" font-family="Arial" font-size="20">27</text>
+  <text x="330" y="220" text-anchor="middle" font-family="Arial" font-size="20">64</text>
+  
+  <!-- Axis arrows -->
+  <!-- Axis 0 (rows) - vertical black arrow on the left -->
+  <line x1="90" y1="70" x2="90" y2="220" stroke="#000000" stroke-width="3" />
+  <polygon points="90,240 85,220 95,220" fill="#000000" />
+  <text x="60" y="150" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" transform="rotate(270 60 150)">axis 0 (rows)</text>
+  
+  <!-- Axis 1 (columns) - horizontal black arrow below -->
+<line x1="120" y1="260" x2="360" y2="260" stroke="#000000" stroke-width="3" />
+  <polygon points="380,260 360,255 360,265" fill="#000000" />
+  <text x="240" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">axis 1 (columns)</text>
+</svg>

@@ -1,6 +1,9 @@
 # Matemática Computacional 2
 Material de ensino para um curso de curta duração sobre o uso das bibliotecas NumPy, Matplotlib, SciPy e SymPy aplicadas à Álgebra Linear e ao Cálculo de funções de várias variáveis.
 
+Os seis cadernos iniciais são traduções de um [tutorial para o NumPy](https://github.com/pzuehlke/NumPy-Tutorial) com foco em Álgebra Linear básica originalmente escrito (por mim mesmo) em inglês. As traduções foram geradas pelo [Claude](claude.ai), por isto em alguns pontos podem ser imprecisas ou um pouco estranhas. Os outros cadernos são mais antigos e não são traduções.
+
+
 ## Conteúdo
 
 
