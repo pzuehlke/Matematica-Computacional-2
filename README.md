@@ -11,6 +11,7 @@ Os seis cadernos iniciais são traduções de um [tutorial para o NumPy](https:/
 02 — [Acessando e manipulando arrays](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/02-acessando_e_manipulando_arrays/02-acessando_e_manipulando_arrays.ipynb)<br>
 03 — [Vetores e matrizes](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/03-vetores_e_matrizes/03-vetores_e_matrizes.ipynb)<br>
 04 — [Resolvendo equações](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/04-resolvendo_equacoes/04-resolvendo_equacoes.ipynb)<br>
+05 — [Atributos e métodos de arrays](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/05-atributos_e_metodos_de_arrays/05-atributos_e_metodos_de_arrays.ipynb)<br>
 07 — [Cálculo simbólico de derivadas com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/07-derivacao_simbolica_com_SymPy/07-derivacao_simbolica_com_SymPy.ipynb)<br>
 08 — [Cálculo simbólico de integrais com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/08-integracao_simbolica_com_SymPy/08-integracao_simbolica_com_SymPy.ipynb)<br>
 09 — [Gráficos de funções de duas variáveis](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/09-graficos_de_funcoes_de_duas_variaveis/09-graficos_de_funcoes_de_duas_variaveis.ipynb)<br>

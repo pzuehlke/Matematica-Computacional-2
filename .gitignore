@@ -5,6 +5,7 @@
 *.pdf
 *.py
 *.tex
+*.swp
 *.synctex.gz
 figure_generator.ipynb
 *trabalho*
