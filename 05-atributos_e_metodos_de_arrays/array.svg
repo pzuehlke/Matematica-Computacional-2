@@ -1,6 +1,5 @@
 <svg viewBox="0 0 500 320" xmlns="http://www.w3.org/2000/svg">
   <!-- Title for matrix -->
-  <text x="240" y="40" text-anchor="middle" font-family="Arial" font-size="24" fill="#555555">A</text>
   
   <!-- Matrix cells - colors by column, darkening by row -->
   <!-- Row 1 -->
@@ -39,12 +38,11 @@
   
   <!-- Axis arrows -->
   <!-- Axis 0 (rows) - vertical black arrow on the left -->
-  <line x1="90" y1="70" x2="90" y2="220" stroke="#000000" stroke-width="3" />
-  <polygon points="90,240 85,220 95,220" fill="#000000" />
-  <text x="60" y="150" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" transform="rotate(270 60 150)">axis 0 (rows)</text>
+  <line x1="100" y1="62" x2="100" y2="230" stroke="#000000" stroke-width="3" />
+  <polygon points="100,240 95,220 105,220" fill="#000000" />
+  <text x="95" y="200" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold" transform="rotate(270 60 180)">axis 0 (rows)</text>
   
-  <!-- Axis 1 (columns) - horizontal black arrow below -->
-<line x1="120" y1="260" x2="360" y2="260" stroke="#000000" stroke-width="3" />
-  <polygon points="380,260 360,255 360,265" fill="#000000" />
-  <text x="240" y="290" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">axis 1 (columns)</text>
+  <line x1="120" y1="40" x2="350" y2="40" stroke="#000000" stroke-width="3" />
+  <polygon points="360,40 340,35 340,45" fill="#000000" />
+  <text x="240" y="25" text-anchor="middle" font-family="Arial" font-size="14" font-weight="bold">axis 1 (columns)</text>
 </svg>
