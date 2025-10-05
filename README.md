@@ -14,6 +14,7 @@ Os seis cadernos iniciais são traduções de um [tutorial para o NumPy](https:/
 05 — [Atributos e métodos de arrays](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/05-atributos_e_metodos_de_arrays/05-atributos_e_metodos_de_arrays.ipynb)<br>
 07 — [Diferenciação simbólica com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/07-diferenciacao_simbolica_com_SymPy/07-diferenciacao_simbolica_com_SymPy.ipynb)<br>
 08 — [Cálculo simbólico de integrais com SymPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/08-integracao_simbolica_com_SymPy/08-integracao_simbolica_com_SymPy.ipynb)<br>
-09 — [Gráficos de funções de duas variáveis](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/09-graficos_de_funcoes_de_duas_variaveis/09-graficos_de_funcoes_de_duas_variaveis.ipynb)<br>
+09 — [Gráficos de funções de várias variáveis](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/09-graficos_de_funcoes_de_varias_variaveis/09-graficos_de_funcoes_de_varias_variaveis.ipynb)<br>
 10 — [Campos vetoriais](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/10-campos_vetoriais/10-campos_vetoriais.ipynb)<br>
 11 — [Regressão linear simples](https://github.com/pzuehlke/numerical-methods/blob/main/5-minimos_quadrados/5-2_regressao_linear_simples.ipynb)<br>
+12 — [Algoritmos geométricos](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/12-algoritmos_geometricos/12-algoritmos_geometricos.ipynb)<br>
