@@ -4,7 +4,7 @@ Material de ensino para um curso de curta duração sobre o uso das bibliotecas 
 ## Conteúdo
 
 
-01 — [Introdução a arrays NumPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/01_introducao_a_arrays_numpy/01-introducao_a_arrays_numpy.ipynb)<br>
+01 — [Introdução a arrays NumPy](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/01-introducao_a_arrays_numpy/01-introducao_a_arrays_numpy.ipynb)<br>
 02 — [Acessando e manipulando arrays](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/02-acessando_e_manipulando_arrays/02-acessando_e_manipulando_arrays.ipynb)<br>
 03 — [Vetores e matrizes](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/03-vetores_e_matrizes/03-vetores_e_matrizes.ipynb)<br>
 04 — [Resolvendo equações](https://github.com/pzuehlke/Matematica-Computacional-2/blob/main/04-resolvendo_equacoes/04-resolvendo_equacoes.ipynb)<br>
